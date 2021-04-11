@@ -1,6 +1,6 @@
 # chat_privado
 
-Chat de troca de mensagens e arquivos entre usuários em tempo real 
+App de Chat de troca de mensagens e arquivos entre usuários em tempo real criado em Flutter
 
 ## Getting Started
 
